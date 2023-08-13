@@ -27,6 +27,7 @@ library
       Problems1_10
       Problems21_28
       Problems31_41
+      Problems46_50
   other-modules:
       Paths_99haskell_problems
   hs-source-dirs:
